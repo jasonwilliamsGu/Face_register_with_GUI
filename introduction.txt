@@ -1,0 +1,7 @@
+先运行Face_register文件采集人脸图片
+再运行feature分析图片
+最后运行face_reco人脸识别图片
+安装pymysql
+dlib==19.17.0
+numpy==1.15.1
+scikit-image==0.14.0
